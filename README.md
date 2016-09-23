@@ -1,1 +1,2 @@
-# Bosch-Production-Line-Performance-Kaggle-Jiahong-Wang
+# Kaggle competition: 
+##Bosch Production Line Performance 
