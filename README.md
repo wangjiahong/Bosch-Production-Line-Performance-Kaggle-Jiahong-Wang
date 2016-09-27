@@ -1,2 +1,1 @@
-# Kaggle competition: 
-##Bosch Production Line Performance 
+##Kaggle competition: Bosch Production Line Performance 
